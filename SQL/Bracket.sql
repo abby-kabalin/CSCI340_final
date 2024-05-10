@@ -1,0 +1,7 @@
+CREATE TABLE AK171762.BRACKET
+(
+    Level nchar(250) NOT NULL,
+    Seeds int NULL,
+);
+GO
+-- DROP TABLE AK171762.BRACKET;
